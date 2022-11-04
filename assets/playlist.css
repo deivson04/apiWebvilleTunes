@@ -1,0 +1,24 @@
+*{
+  box-shadow: inset ;
+ 
+}
+
+body{
+  background: #78969d;
+}
+
+.container{
+  position: absolute;
+  right: -100px;
+  margin-top: 50px;
+}
+
+h1{
+  text-align: center;
+}
+
+
+/* <form>
+         <input type="text" id="songTextInput" size="40" placeholder="Song name">
+         <input type="button" id="addButton"  value="add Song">
+     </form> */
